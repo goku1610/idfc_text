@@ -1,0 +1,64 @@
+## Introducing Positive Pay
+
+Secure Your Cheque From Any Potential Fraud
+
+**Benefits:**
+
+* Safe Guard all your Cheque Payments
+* Prevent fraud
+* Authorise clearing without a verification call
+
+## Positive Pay System (PPS)
+
+IDFC FIRST Bank prioritizes your safety and ease of banking.  Positive Pay safeguards your cheque payments, protecting you from tampering and potential fraud.
+
+**How to use Positive Pay:**
+
+1. **Start Now:** [https://my.idfcfirstbank.com/login](https://my.idfcfirstbank.com/login)
+2. Log in to the IDFC FIRST Bank App or Netbanking.
+3. Go to the cheque book management section.
+4. Click on "new cheque details".
+5. Fill in the following details:
+   * Cheque Serial Number
+   * Enter Payee Details
+   * Enable Positive Pay Sign
+   * Enter Cheque Date
+   * Enter Amount
+6. Click on "Add cheque".
+
+**Note:** Enabling Positive Pay allows cheque clearance without a verification call from IDFC FIRST Bank. 
+
+## Frequently Asked Questions
+
+**How is it securing your payment?**
+
+You provide your cheque details through the app or netbanking. When the beneficiary presents the cheque, the bank verifies the details. This prevents fraud and ensures secure payments. 
+
+**Is it mandatory to use positive pay?**
+
+While not mandatory, IDFC FIRST Bank highly encourages using this feature for maximum cheque security. 
+
+## Discover Our Banking Products
+
+**Door Step Banking**
+
+* One Location Cheque pick-up free
+* [Know More](https://www.idfcfirstbank.com/business-banking/retail-solutions#cheque) 
+
+**Trade Forex**
+
+* Expand overseas business with IDFC FIRST Bank
+* [Know More](https://www.idfcfirstbank.com/wholesale-banking/trade) 
+
+**UPI QR & POS**
+
+* Instant credit to your Bank account for your collections
+* [Know More](https://www.idfcfirstbank.com/wholesale-banking/cms/collections/electronic-collections#nach) 
+
+## Get in touch with us
+
+* [Give a compliment](/compliment?utm_source=nminusone&utm_medium=webhomepage&utm_campaign=compliment_page_n1&utm_content=getintouch)
+* [Customer Support](/customer-care-sr)
+* [Locate our branch](/support/branches?utm_source=nminusone&utm_medium=webhomepage&utm_campaign=branches_page_n1&utm_content=getintouch)
+
+**(Footer with links to various pages and resources)** 

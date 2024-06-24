@@ -1,0 +1,53 @@
+```html
+<h1>Business Insurance Services</h1>
+<p>For an enterprise/company/business, financial assets are of utmost importance whose absence could cause a major setback to the continuity of the business. Business Insurance is the solution for these obstacles. It is a kind of insurance that helps an enterprise protect its tangible assets like land, buildings, office supplies, equipment intangible assets like Intellectual Property, Research & Development from unforeseen events that could cause huge financial losses. <a href="javascript:void(0)">Read More</a></p>
+<p>It supports the insured business against any damage or loss arising out of incidents like natural disasters, thefts, vandalism, lawsuits, loss of income and employee illness, injury or death. <a href="javascript:void(0)">Read Less</a></p>
+<h2>Our Solutions</h2>
+<ul>
+<li><a href="/personal-banking/insurance/liability-insurance">Liability Insurance</a></li>
+<li><a href="/personal-banking/insurance/marine-cargo-insurance">Marine Cargo Insurance</a></li>
+<li><a href="/personal-banking/insurance/group-health-insurance">Group health Insurance</a></li>
+<li><a href="/personal-banking/insurance/group-personal-accident">Group Personal Accident</a></li>
+<li><a href="/personal-banking/insurance/workmen-compensation">Workmen Compensation</a></li>
+<li><a href="/personal-banking/insurance/trade-credit-insurance">Trade Credit Insurance</a></li>
+<li><a href="/personal-banking/insurance/fire-insurance">Fire Insurance</a></li>
+<li><a href="/personal-banking/insurance/package-policy">Business Package Policy</a></li>
+</ul>
+<h3>Calculator</h3>
+<h4>Find the right cover amount for yourself</h4>
+<p><a href="/personal-banking/insurance/business-insurance/calculator">Calculate Now</a></p>
+<h3>Frequently Asked Questions</h3>
+<h4>What is business insurance?</h4>
+<p>Business insurance includes a broad range of policy options designed to protect businesses from financial loss. Every commercial operation has its own unique set of risks, and hence, a commercial insurance policy must be tailored to the business.</p>
+<p>Many factors, from the size of your company to the number of workers you employ, the materials they handle, and whether you have business vehicles, will determine the specific coverage you need to mitigate risk and protect your company’s financials.</p>
+<h4>What are the types of business insurance solutions available?</h4>
+<p>At IDFC FIRST Bank, we offer a wide range of business insurance services such as –</p>
+<ul>
+<li>Commercial insurance</li>
+<li>Employee insurance</li>
+<li>Corporate insurance</li>
+<li>Commercial property insurance</li>
+<li>Business liabilities insurance</li>
+<li>Business property insurance</li>
+<li>Business loan insurance</li>
+</ul>
+<h4>What factors affect the cost of business insurance coverage?</h4>
+<p>The cost of insurance is based on a range of factors like:</p>
+<ul>
+<li>The value of the company assets you wish to insure</li>
+<li>A number of employees</li>
+<li>Specific risks associated with your industry</li>
+<li>Personal risk tolerance and the amount of liability protection you prefer</li>
+</ul>
+<h4>How does insurance fit into my overall strategic business plan?</h4>
+<p>At the most basic level, insurance helps you manage the risk of loss for your business. You don't want to experience a loss that would have been covered if you'd had the right policy in place. Spend time assessing your operational risks to determine your greatest risk factors or get in touch with us to help you with the same.</p>
+<h4>What if my business needs to change?</h4>
+<p>The demands and opportunities your business faces are constantly shifting. As your business grows, offers new products or services, buys new equipment or develops new revenue streams, you may also take on new risks. It's a good idea to review whenever something significant changes, and at least once per year, to identify overlapping coverage or new areas of risk. The good news is that there are coverages available to adapt to your needs.</p>
+<p><a href="JavaScript:Void(0)">More FAQs</a></p>
+<h3>Get in touch with us</h3>
+<ul>
+<li><a href="/compliment?utm_source=nminusone&utm_medium=webhomepage&utm_campaign=compliment_page_n1&utm_content=getintouch">Give a compliment</a></li>
+<li><a href="/customer-care-sr">Customer Support</a></li>
+<li><a href="/support/branches?utm_source=nminusone&utm_medium=webhomepage&utm_campaign=branches_page_n1&utm_content=getintouch">Locate our branch</a></li>
+</ul>
+```

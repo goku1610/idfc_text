@@ -1,0 +1,62 @@
+```json
+[
+  {
+    "section_title": "VISA Offers",
+    "offers": [
+      {
+        "brand": "Yatra",
+        "offer_details": "Domestic Flights: 12% instant...",
+        "code": "YTIDFC",
+        "expiry": "30-Jun-2024"
+      },
+      {
+        "brand": "Swiggy Instamart",
+        "offer_details": "Flat Rs 100 off on a minimum purchase...",
+        "code": "IDFCINSTA100",
+        "expiry": "30-Jun-2024"
+      },
+      {
+        "brand": "TATA CIIQ",
+        "offer_details": "10% instant discount upto Rs. 300 on a ...",
+        "code": "IDFCMALL",
+        "expiry": "30-Jun-2024"
+      },
+      {
+        "brand": "Zomato",
+        "offer_details": "Get flat Rs. 75 off on select ...",
+        "code": "IDFCFEAST",
+        "expiry": "30-Jun-2024"
+      },
+      {
+        "brand": "Myntra",
+        "offer_details": "10% Instant discount on a minimum ...",
+        "expiry": "30-Jun-2024"
+      },
+      {
+        "brand": "TATA Palette",
+        "offer_details": "15% instant discount upto Rs. 300 on a ...",
+        "code": "IDFCPAL300",
+        "expiry": "30-Jun-2024"
+      },
+      {
+        "brand": "Lifestyle",
+        "offer_details": "Additional 15% off on a minimum spend ...",
+        "code": "LIFEVISA15",
+        "expiry": "15-Sep-2024"
+      },
+      {
+        "brand": "Behrouz Biryani",
+        "offer_details": "Get 30% Off upto Rs 125/- on orders ...",
+        "code": "VISABB30",
+        "expiry": "15-Sep-2024"
+      },
+      {
+        "brand": "Faasos",
+        "offer_details": "Offer: Get 40% Off upto Rs 110/- on ...",
+        "code": "VISAFA40",
+        "expiry": "15-Sep-2024"
+      }
+    ]
+  }
+]
+```

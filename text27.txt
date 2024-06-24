@@ -1,0 +1,52 @@
+```html
+<h1>Enjoy pre-set credit limits up to ₹5 lakhs</h1>
+<h2>Get instant approvals and no cost EMI with<br>IDFC FIRST Bank Easy Buy EMI Card</h2>
+<a href="https://idfcfirstbank-cd.force.com/Offerlimit/s/?sourceId=200&sourceName=Wesbite">Apply Now</a>
+<h3>Key Features</h3>
+<h4>No Cost EMI</h4>
+<p>Avail EMI’s on your Consumer Durable Loan at no additional cost</p>
+<h4>Pre-set Credit Limit</h4>
+<p>Pre-set credit limit that can be redeemed against any number of purchases. Minimum value ₹3000\* & maximum limit up to ₹5 lakhs</p>
+<h4>Instant Approval</h4>
+<p>Get instant approval on your IDFC FIRST Bank Consumer Durable Loan</p>
+<h4>Limitless Financing</h4>
+<p>Customers can avail a loan at any given time, unlike others, where the next case can be logged in only after a lead time of 3 months</p>
+<h4>Dual Limit Offered</h4>
+<p>Customer is offered 2 limits on an EBC Card - one for taking Consumer Durable Loan/ Consumption Finance Loan & another to take Two-wheeler Loan</p>
+<h4>Buy Now Pay Later</h4>
+<p>Avail the buy now pay later option, and get the best, hassle-free shopping experience</p>
+<h3>Eligibility</h3>
+<p>Easy Buy EMI Card is provided as a value-added service to the existing customers of IDFC FIRST Bank basis excellent payment record. Eligibility is based on discretion of IDFC FIRST Bank.</p>
+<p>Minimum Age: 21 years<br>Maximum Age: 68 years</p>
+<h3>FEES & CHARGES</h3>
+<h3>Know about our minimal and transparent fees & charges</h3>
+<a href="/personal-banking/loans/consumer-durable-loan/fees-and-charges">View Interest Rates & Applicable Charges</a>
+<h3>FREQUENTLY ASKED QUESTIONS</h3>
+<h4>What is the Easy EMI Card?</h4>
+<p>IDFC FIRST Bank issues an <em>Easy Buy Card</em> / Offering to its privileged customers. This card comes with a pre-approved Consumer Durable and Two Wheeler Loan limit. You can use the card/promotional SMS/Card number to buy your favourite consumer durable and Two Wheeler by simply disclosing this offer to our Bank representative at the dealership outlet.</p>
+<h4>Whom can we offer the Easy buy EMI Card</h4>
+<p>A-Easy Buy EMI Card is offered to our Existing IDFC FIRST Bank Customers.</p>
+<h4>Where can I check my Easy Buy Card limit?</h4>
+<p>You can now know your Easy Buy Card status by simply sending a SMS EBC to +91 83903 06070</p>
+<h4>Where can the Easy buy EMI card be used?</h4>
+<p>You can use the Easy buy emi card across 100+ online stores and 15000+ Offline stores across India.</p>
+<h4>What is my card/offering limit?</h4>
+<p>You can refer to SMS sent by us.</p>
+<a href="JavaScript:Void(0)">More FAQs</a>
+<h3>Discover Our Banking Products</h3>
+<h3>Savings Account</h3>
+<p>Earn monthly interest credits on your savings account</p>
+<a href="https://digital.idfcfirstbank.com/apply/savings">Open Account</a>
+<a href="/personal-banking/accounts/savings-account">Know More</a>
+<h3>Credit Cards</h3>
+<p>Move to India's best lifetime Credit Card</p>
+<a href="/credit-card">Know More</a>
+<h3>Fixed Deposit</h3>
+<p>Watch your earnings multiply with competitive interest rates</p>
+<a href="https://my.idfcbank.com/start?page=fixedDeposit">Book Now</a>
+<a href="/personal-banking/deposits/fixed-deposit">Know More</a>
+<h3>Get in touch with us</h3>
+<a href="/compliment?utm_source=nminusone&utm_medium=webhomepage&utm_campaign=compliment_page_n1&utm_content=getintouch">Give a compliment</a>
+<a href="/customer-care-sr">Customer Support</a>
+<a href="/support/branches?utm_source=nminusone&utm_medium=webhomepage&utm_campaign=branches_page_n1&utm_content=getintouch">Locate our branch</a>
+```

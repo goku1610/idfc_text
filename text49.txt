@@ -1,0 +1,133 @@
+## Simplify your bill payments
+
+**Breeze through payments with features like:**
+
+* Quick Pay
+* Auto Pay
+* FasTag Recharge
+* DTH Recharge
+* Mobile Recharge
+
+**Benefits:**
+
+* Control your payments
+* Pay bills in minutes
+* Get prompt reminders 
+
+## Bill Payments and Recharge
+
+Discover the ease of clearing your bills on time. Take care of all your bill payments without any hassles with IDFC FIRST Bank. Make online payments for services like electricity, gas, landline connection, etc. You can even get an online recharge for your DTH and mobile phone. 
+
+## Key Features
+
+Say goodbye to late bill payments with our payment channels which give you access to:
+
+* Flexibility of instant, one-time online payments
+* Early reminders so you know when your online payment is due
+* Notifications for when a bill payment is done or not
+* Notifications for when you receive a bill
+* Intimations if any complications arise with your billers
+* Guarantee that all your bill payments are on time 
+
+## Biller-categories
+
+* Electricity
+* Mobile Postpaid
+* Landline
+* Piped Gas
+* Water
+* Broadband
+* Loan Repayment
+* Credit Card
+* FasTag
+* DTH Recharge
+* Mutual Fund
+* Insurance
+* Donate
+* Book a Cylinder
+* School/College fees
+* Rental
+* Municipal Tax
+* Subscription
+
+## Types of Billers
+
+### Presentment Billers
+
+These billers provide the entire bill amount which is due. For this type of biller, you can set up autopay and you can pay off the entire amount in one transaction. You will be able to set a maximum amount for each biller. If the bill amount exceeds this limit, you will be notified immediately. 
+
+But there are restrictions, such as:
+
+1. You cannot make part payments.
+2. You cannot make an online payment past the due date. However, you can make pre-payments.
+3. You cannot make a payment till the bill is presented for payment.
+
+### Payment Billers
+
+These billers do not present a bill. You can choose to make ad-hoc payments to them or set up a schedule as to when, how often, and how much you want to pay them. We will not exceed the amounts you have specified for each biller.
+
+## QuickPay
+
+Make instant bill payments with QuickPay. It is a one-time payment without prior registration.
+
+## Bill Payments and Online Recharge: Bill registration/AutoPay/Recharge
+
+Complete a DTH recharge, online mobile recharge, biller registration, Auto Pay, and more through our channels, instantly. Recharge billers are pre-paid billers whose services you must pay for, before you can use them. You can log into your account and recharge your DTH or mobile online with the amount you desire or choose from a variety of plans we have to offer. You can also set up Auto Pay, so you never have to worry about bill payments anymore.
+
+### Steps to follow
+
+#### Bill Registration
+
+Follow these easy steps:
+
+* Login to your Net/Mobile Banking
+* Go to Pay>select category>Pay or add biller>select biller>enter the details
+* Once paid, the bill registration will be done automatically.
+
+#### AutoPay
+
+Follow these easy steps:
+
+* Login to your Net/Mobile banking
+* Go to <Pay>
+* Select the biller category
+* Click on to <pay/add biller>
+* Enter the relevant information
+* Pay the bill
+* Click on <enable auto pay>
+* Your auto bill payment is enabled
+
+#### Mobile Recharge
+
+Follow these easy steps:
+
+* Login to your Net/Mobile banking
+* Go to <Pay>
+* Go to <Recharge>
+* Mobile Prepaid>Recharge new number>enter mobile number>select service provider>select state>enter amount and pay
+
+#### DTH Recharge
+
+Follow these easy steps:
+
+* Login to your Net/Mobile banking
+* Go to <Pay>
+* Go to <Recharge>
+* Select DTH>select service provider>Enter subscriber ID and other details>select service provider>enter amount and pay
+
+
+## Discover Our Banking Products
+
+* **Online Shopping Payments:** Shop. Pay. Repeat.
+* **UPI:** Send or receive payments instantly and securely
+* **Savings Account:** Earn monthly interest credits on your savings account
+
+## Get in touch with us
+
+* Give a compliment
+* Customer Support
+* Locate our branch
+
+## Footer
+
+**(Information about the bank, Popular Products, Important Links, Explore, Follow Us, Download IDFC FIRST Bank App,  PCI DSS SECURITY COMPLIANT, Popular Searches, Notifications)** 

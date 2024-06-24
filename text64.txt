@@ -1,0 +1,190 @@
+## 3-Click Payments Money Transfers
+
+**Transfer funds from your IDFC FIRST Bank's account in a safe and secure manner.**
+
+**[Transfer Now](https://my.idfcfirstbank.com/login)**  **[Download App Now!](/personal-banking/ways-to-bank/mobile-banking-services/mobile-banking-app)**
+
+**Features:**
+
+* Quick and Secure Payments
+* No charges for transactions
+* Easy Access through Internet & Mobile Banking
+
+**Online Money Transfer**
+
+Transfer funds quickly and effortlessly with IDFC FIRST Bank. We offer multiple services to safely and securely move your money. Our bank money transfer services are available for you anytime, anywhere. We provide online money transfers through NEFT, IMPS, RTGS as well as our mobile banking app. You can even step into your nearest IDFC FIRST Bank branch and easily transfer funds.
+
+**[Read More](javascript:void(0))**
+
+**Experience the ease of online fund transfers with IDFC FIRST Bank and get the following features:**
+
+* Fund transfer within your own or other persons' IDFC FIRST Bank account.
+* Fund transfer to Non-IDFC FIRST Bank accounts and to make Non-IDFC FIRST Bank Credit Cards payments.
+
+**[Read Less](javascript:void(0))**
+
+### IMPS
+
+Instantly transfer funds from one account to another with our Immediate Payment Service, (IMPS). Available 24/7, you can access this bank money transfer service through internet banking or the IDFC FIRST Bank mobile app. You can transfer funds up to ₹5,00,000 with just the IFSC code of the recipient’s bank. Our IMPS service is brought to you by the National Payments Corporation of India, (NPCI), in collaboration with its member banks.
+
+**Transfer through IMPS**
+
+**What are the benefits of online fund transfers through IMPS?**
+
+With IDFC FIRST Bank Funds Transfer, you can avail many benefits through IMPS:
+
+* Send & receive money instantly
+* Transfer funds 24/7
+* Transfer funds online safely & securely
+* Receive instant confirmations
+
+**What are the steps required for bank money transfers through IMPS?**
+
+Successfully carry out bank money transfers through our IMPS channels by following these simple steps:
+
+1. Log onto internet banking/ mobile banking app
+2. Select ‘Fund transfer’ on the left
+3. Select ‘Transfer Now’
+4. Enter the amount you want to transfer (must be between ₹1 and ₹5,00,000 only)
+5. Select a beneficiary, or use our ‘One Time Beneficiary’ option to transfer funds without registering a beneficiary
+6. IMPS will be selected for by default
+7. Click ‘Submit’ and enter in the OTP sent to your registered mobile number
+8. Once verified, the funds will be transferred to the beneficiary 
+
+### NEFT
+
+Transfer funds to a third-party account through our National Electronic Fund Transfer service. You can complete online money transfers to an account from any bank that is a participating member of RBI’s National Electronic Fund transfer (RBI – NEFT) scheme. You can execute online fund transfers through our internet banking portal, mobile banking app or at your nearest IDFC FIRST Bank branch. We have a minimum transfer limit of ₹1 and a maximum of ₹20,00,000. 
+
+**Transfer through NEFT**
+
+**What are the steps required to carry out online money transfers through NEFT?**
+
+To complete online money transfers through our NEFT channels, kindly follow these simple steps:
+
+1. Log onto internet banking/mobile banking app
+2. Select ‘Fund transfer’ on the left
+3. Select ‘Transfer Now’
+4. Enter the amount you want to transfer (minimum ₹1.00 and maximum up to ₹20,00,000)
+5. Select a beneficiary or use our ‘One Time Beneficiary’ option to transfer funds without registering a beneficiary
+6. Select NEFT as the payment method
+7. Click ‘Submit’ and enter in the OTP sent to your registered mobile number
+8. Once verified, the funds will be transferred to the beneficiary
+
+Kindly note, you will only be able to make payments through internet banking, if you have a single or unconditional signing authority on your account.
+
+* Requests received between 8:00 AM and 6:59 PM on weekdays (except Sundays & Bank holidays) will be processed on the same day.
+* The time taken to credit the Beneficiary's account will be dependent on the time taken by the Beneficiary's bank to process the payment.
+
+### RTGS
+
+Immediately transfer funds to any third-party beneficiary with our Real Time Gross Settlement System (RTGS). The only requirement that needs to be fulfilled is – the beneficiary’s account must be associated with a bank that participates in RBI’s Real Time Gross Settlement System (RBI – RTGS) scheme. Send money on-the-go through internet banking or our mobile banking app. Alternatively, you can visit our branch to initiate an RTGS online fund transfer. You can transfer a minimum of ₹2,00,000 and above.
+
+**Transfer through RTGS**
+
+**What is the process to carry out fund transfer through RTGS?**
+
+To transfer funds through our RTGS channels, kindly follow these simple steps:
+
+1. Log onto internet banking/ mobile banking app
+2. Select‘Fund transfer’ on the left
+3. Select ‘Transfer Now’
+4. Enter the amount you want to transfer (must be ₹2,00,000 and above)
+5. Select a beneficiary or use our ‘One Time Beneficiary’ option to transfer funds without registering a beneficiary
+6. Select RTGS as the payment method
+7. Click ‘Submit’ and enter in the OTP sent to your registered mobile number
+8. Once verified, the funds will be transferred in the respective RTGS cycle to the beneficiary
+
+Kindly note, for any requests received between 8:00 AM and 6.59 pm on weekdays – (except Sundays & Bank holidays) will be processed on the same day.
+
+* The time taken to credit the Beneficiary's account will be dependent on the time taken by the Beneficiary's bank to process the payment.
+
+**How much time will it take to process the online money transfer?**
+
+Here is a detailed breakdown of our timings for processing of your requests on the same day:
+
+| Transaction Type | Monday-Saturday | Sunday | RBI Holidays |
+|---|---|---|---|
+| IMPS | 24 X 7 Available all year around!!! |  |  |
+| NEFT | 24 X 7 Available all year around!!! |  |  |
+| RTGS | 24 X 7 Available all year around!!! |  |  |
+
+**Transaction Limits of IMPS / NEFT / RTGS**
+
+| Transaction Type | Online Minimum Limit | Online Maximum Limit | Branch Minimum Limit | Branch Maximum Limit |
+|---|---|---|---|---|
+| IMPS | ₹ 1 | ₹5,00,000 | ₹1 | ₹5,00,000 |
+| NEFT | ₹1 | ₹20,00,000 | ₹1 | No Limit |
+| RTGS | ₹2,00,000 | ₹20,00,000 | ₹2,00,000 | No Limit |
+
+### UPI
+
+Unified Payment Interface” (UPI) is a payment method powered by the National Payment Corporation of India (NPCI) to simplify and provide a single interface for merchant payments and funds transfer. UPI is a channel that enables linking of multiple bank accounts into a single mobile app. UPI enables customers to send and receive money from their smart phones with a single identifier, Virtual payments address; without needing to disclose any confidential details like bank account information or card number
+
+**[Know More](https://play.google.com/store/apps/details?id=com.idfcfirstbank.optimus)**
+
+**Internet Banking or Mobile Banking App**
+
+Conveniently transfer funds in a few clicks through our internet banking portal or our mobile banking app. We offer online money transfer services through IMPS/NEFT/RTGS. Here’s a detailed list of the many services you can avail while banking through our portals:
+
+* Transfer funds to an existing beneficiary
+* Transfer funds to a non-existing beneficiary by selecting our ‘One Time Beneficiary’ option
+* Schedule a transfer through one of the following methods:
+    * Set the start and end date for the transfer, specifying the frequency of the transfer at your convenience. This can be weekly, monthly, quarterly, half-yearly and yearly.
+    * Set the number of times the online money transfer should occur from the start date using our ‘Repeat’ feature.
+
+**[Experience Now](https://www.idfcfirstbank.com/content/idfcsecure/en/open-savings-account-online.html)**
+
+**Branch**
+
+Step into your nearest IDFC FIRST Bank and easily complete online money transfers through our NEFT/RTGS channels. To transfer funds online, you will need to fill out the following details in your money transfer form:
+
+* Date
+* Your account details
+* Your beneficiary’s account details
+* Select transfer method (this can be NEFT/RTGS or if it is a transfer to an IDFC FIRST Bank account)
+* Transfer amount in figures and words
+* Your signature (if it is a joint account, signatures of both account holders will be required)
+
+Submit this filled form to our branch executive and we will process the transfer as per the NEFT/RTGS cycles. If it is a transfer to an IDFC FIRST Bank account, the money transfer will be processed immediately.
+
+Kindly note, IMPS is an online transaction and cannot be done through our branch. You can get a money transfer form from the following places:
+
+* Directly from a branch executive at your nearest branch
+* Downloading it from our website
+
+**[Download Form](https://www.idfcfirstbank.com/content/dam/IDFCFirstBank/PDF/Fund-Transfer-Form-Applicable-for-Existing-Customers-Change-Size-V-6.pdf)**  **[Existing Branch List](https://www.idfcfirstbank.com/reach-us.html)**
+
+**Experience a Mobile Banking revolution**
+
+Track spends, earn rewards, check your risk profile, invest in Mutual Funds in a click, experience Google-like search, cash flow analysis
+
+**[Download Now](https://my.idfcfirstbank.com/digital-banking-app)**
+
+## Discover Our Banking Products
+
+### Bill Payments & Recharge
+
+Simplify your bill payments
+
+**[Know More](/personal-banking/payments/bill-payments-recharge)**  **[Pay Bills Now](https://bbps.idfcbank.net/quickpay.aspx)**
+
+### UPI
+
+Send or receive payments instantly and securely
+
+**[Know More](/personal-banking/payments/upi-payments)**
+
+### Online Tax Payments
+
+Tax payments made easy
+
+**[Know More](/personal-banking/payments/online-tax-payments)**
+
+## Get in touch with us
+
+**[Give a compliment](/compliment?utm_source=nminusone&utm_medium=webhomepage&utm_campaign=compliment_page_n1&utm_content=getintouch)**
+
+**[Customer Support](/customer-care-sr)**
+
+**[Locate our branch](/support/branches?utm_source=nminusone&utm_medium=webhomepage&utm_campaign=branches_page_n1&utm_content=getintouch)**
+ 

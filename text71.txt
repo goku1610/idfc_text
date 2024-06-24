@@ -1,0 +1,65 @@
+## Cashless purchases is the way ahead!
+
+Opt for our extensive online payment options with IDFC FIRST Bank Point of Sale Solutions
+
+**Benefits**
+
+* Android, GPRS & PSTN Terminals Available
+* EMI acceptance
+* Integration Facility
+* QR on POS
+* Dedicated customer Service Desk
+* Quick Installation and Onsite Training
+* Accept all Major Credit/Debit/Prepaid Cards
+* Tap and Pay facility available
+* Early Morning Settlement
+* Competitive Pricing
+* Free transaction statement
+
+**Customer Support**
+
+**For Fiserv/First Data Terminal**
+
+* Call the toll free number: 1800 266 6547, 18002035435
+
+OR
+
+* Email : **idfcfirstbankmerchantcare@fiserv.com**
+
+**For Pinelabs Terminal**
+
+* Call the landline number : 0120 4033600
+
+OR
+
+* Email : **idfc.support@pinelabs.com**
+
+**Points to Remember**
+
+1. **Never swipe your own card or relative’s card on IDFC FIRST Bank POS terminal.**
+
+This will a violation of the Merchant Acquiring Agreement signed. And in such scenario, the Bank reserves the right to withdraw POS services. For such transactions, the settlement will be kept on hold for a minimum of 150 days and also you will have to bear the cost of reversal of the txn amount back to the Card.
+
+2. **Retain the charge slip for 180 days until the chargeback period is over.**
+
+Can take a Photo copy of charge slip, to retain the details owing to less lifetime of thermally printed charge slip. Without a Charge slip, Merchant Claim will become weaker and the transaction will be put on hold for a minimum of 135 days and up to 540 days
+
+**Do’s and Dont’s**
+
+| Do's | Don’t's |
+|---|---|
+| 1. Settle the batch on your POS terminal daily. 2. Retain the merchant copy of the charge slip and the invoice of the Transaction for at least one year after the sale to settle any future disputes. 3. Obtain Id proof of the customer for high value transactions. 4. Accept payment only for the Goods and Services delivered to the cardholder for a commercial transaction 5. Accept payments for Memberships upto 1 year only. 6. Ensure that the Transaction value on Charge slip matches the Invoice value. There should be only one card transaction against one invoice. 7. Keep the Customer's Card Information secure. 8. Ensure that the POS machine is maintained in good condition 9. Check for card Security features for any anomaly in Bank name, Visa/Mastercard/Rupay Logo. 10. Compare the card number & name printed on the charge slip with that on the card. 11. Return the card and customer copy of the charge slip to the customer. 12. For all International/High Value card transactions, it is recommended that the merchant compare the signature on the card to the signature on the ID proof. Also check whether the nationality as per ID proof matches with Issuing bank country. 13. Always note down the customer’s address and contact details for future reference. 14. Keep appropriate stock of Paper Roll. | 1. Do not Provide cash against the credit cards. 2. Do not swipe your own card or relative’s card on IDFC FIRST Bank POS terminal 3. Do not collect any surcharge/ convenience fees from the cardholder for POS transactions. 4. Do not Split the amounts and swipe multiple times for a single transaction. 5. Do Not use Paper Rolls of any other bank/entity. 6. Do Not store or disclose the card details of the customer to any other third party. 7. Do Not indulge in any Fraudulent/Illegal activity. 8. Do Not Accept any card without Logo of the Bank/Visa/Mastercard/Rupay or with expired validity. 9. Do not Alter or tamper with the POS device. 10. Do not Handover the EDC machine to the card holder, unless the terminal asks for a PIN to be entered. | 
+
+**Discover Our Banking Products**
+
+**Current Account**
+
+Wide array of current accounts for all kinds of businesses
+
+**UPI**
+
+Send or receive payments instantly and securely
+
+**Online Tax Payments**
+
+Tax payments made easy

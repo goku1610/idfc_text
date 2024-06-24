@@ -1,0 +1,133 @@
+## Unified Payment Interface (UPI) - Transfer Money via UPI | IDFC FIRST Bank
+
+**IDFC FIRST Bank** offers easy and secure UPI payments through their mobile app. 
+
+**Key Features:**
+
+* **Easy to set up:** Download the app, follow the steps, and you're ready to go.
+* **Privacy:** Send & Receive Money securely using your UPI ID with Virtual Payment Address.
+* **Make/Request payments:** Set payment deadlines and even send reminders.
+* **Available anytime:** Our prompt UPI money transfer services are available 24/7, 365 days a year.
+
+
+**Benefits for IDFC FIRST’s UPI user:**
+
+**Merchants:**
+
+* Seamless fund collection/payouts
+* Instant fund receipt
+* Reduced transactional cost
+* Built with latest functionalities for competitive edge
+* Suitable for any trade
+* Multiple Business use cases possible with UPI.
+
+**Customers:**
+
+* 24/7 transaction facility
+* Online Dispute Resolution
+* Superior usability
+* Instant transfers
+* Single-app based management of all bank accounts
+* Highly secure
+* VPA or UPI ID to ensure security of your personal details
+* Single-click authentication
+* Request-for-money option from the UPI app
+* Direct raising of complaints
+
+**Banks:**
+
+* A secure transaction system
+* Seamless merchant transaction
+* Incurs no additional cost
+* Single-click with two-factor authentication
+
+**Accept payments with UPI**
+
+Generate your UPI QR code and let customers pay you instantly using the ‘Scan & Pay’ feature. You can also initiate ‘Collect Payment’ requests, set time limits, and send reminders for payments.
+
+**Pay to Contact:**
+
+Easily pay anyone in your contact list in 3 simple steps:
+
+1. Login to mobile app and Click on Pay to Contacts
+2. Select beneficiary from your Phone book or enter their mobile number.
+3. Enter Amount and authenticate the transaction using OTP, for instant transfer!
+
+**Frequently Asked Questions**
+
+* **What is UPI?**
+
+UPI (Unified Payments Interface) is a platform by NPCI (National Payments Corporation of India) that connects multiple bank accounts into a single mobile application, enabling seamless, real-time bank-to-bank payments 24/7 using a mobile number or a UPI ID.
+
+* **How does UPI work?**
+
+You'll need an internet connection, bank account, smartphone with active mobile number linked to the account, and a UPI-enabled mobile app. Transactions are made by entering the recipient's UPI ID, scanning a UPI QR code, or using their account number and IFSC code.
+
+* **How can you generate UPI QR code for your business?**
+
+1. Download the IDFC FIRST Bank UPI app from Google Play Store
+2. Register and link your bank accounts
+3. Click the menu icon and select ‘My QR Code’
+4. Download, print, and display your generated QR code
+
+* **How to use the ‘Scan and Pay’ feature of the UPI app?**
+
+1. Open the UPI app and select ‘Scan and Pay’
+2. Scan the store’s QR code
+3. Authorize the transaction using your UPI PIN
+
+* **How can you initiate a ‘Collect Payment’ Request from your UPI app?**
+
+1. Download the IDFC FIRST Bank UPI app and link your bank account
+2. Click on ‘ASK’ at the bottom of the screen
+3. Enter the payer's VPA (Virtual Payments’ Address), the amount, and submit
+4. You can set a time limit and send reminders for the payment
+
+**Merchant Eligibility:**
+
+IDFC FIRST Bank offers UPI merchant solutions for:
+
+* Individuals & Sole Proprietors (e.g. Grocery stores, vendors, restaurants)
+* Self Employed professionals (e.g. Doctors, fitness experts, architects)
+
+Download the IDFC FIRST Bank UPI app, register, link your accounts, and start using UPI for your business.
+
+**Roles & Responsibilities of NPCI:**
+
+* Owns and operates the UPI platform.
+* Sets rules, regulations, guidelines, and liabilities for UPI participants.
+* Approves the participation of Issuer Banks, PSP Banks, TPAPs (Third Party Application Providers) and PPI issuers (Prepaid Payment Instrument) in UPI.
+* Provides a safe, secure, and efficient UPI system and network.
+* Offers online transaction routing, processing, and settlement services.
+* Conducts audits on UPI participants and calls for data and records.
+* Provides banks with access to a system for downloading reports, raising chargebacks, and updating transaction status.
+
+**List of TPAPs sponsored by IDFC FIRST Bank:**
+
+* Ultracash (@idfcbank) - [https://m.ultracash.com/help_us.html](https://m.ultracash.com/help_us.html)
+* Fave (Pine Labs) (@idfcbank) - [https://www.myfave.in/contact](https://www.myfave.in/contact)
+
+**Discover Our Banking Products:**
+
+* **Personal Loan:** Avail loan for all your personal aspirations with a hassle-free application process.
+* **Savings Account:** Earn monthly interest credits on your savings account.
+* **Bill Payments & Recharge:** Simplify your bill payments.
+
+**Get in touch with us:**
+
+* Give a compliment
+* Customer Support
+* Locate our branch
+
+**Follow Us On:**
+
+* Facebook
+* Twitter
+* LinkedIn
+* Youtube
+
+**Download IDFC FIRST Bank App:**
+
+* Available on App Store and Google Play
+
+**PCI DSS SECURITY COMPLIANT**

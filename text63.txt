@@ -1,0 +1,123 @@
+## IDFC FIRST Bank: Unified Payment Interface (UPI)
+
+### Send, Request & Scan QR, It is that easy!
+
+Start using UPI now by downloading our secure app.
+
+#### Key Features:
+
+* **Easy to set up:** Download our app, follow the steps, and you’re all set.
+* **Privacy:** Send & Receive Money securely using your UPI ID or Virtual Payment Address.
+* **Make/Request payments:** Set payment deadlines and even send reminders.
+* **Available anytime:**  Our UPI money transfer services are available at all times.
+
+### Benefits for IDFC FIRST's UPI User:
+
+All stakeholders – merchants, banks, and customers – benefit from UPI transactions.
+
+**Benefits for merchants:**
+
+* Seamless fund collection/payouts
+* Instant fund receipt
+* Reduced transactional cost
+* Latest functionalities to stay ahead of the competition
+* Suitable for any trade
+* Multiple Business use cases possible
+
+**Benefits for customers:**
+
+* 24/7 transaction facility
+* Online Dispute Resolution
+* Superior usability
+* Instant transfers
+* Single-app management of all bank accounts
+* High security with VPA or UPI ID
+* Single-click authentication
+* Request-for-money option
+* Direct complaint raising
+
+**Benefits for Banks:**
+
+* Secure transaction system
+* Seamless merchant transactions
+* No additional cost
+* Single-click with two-factor authentication
+
+### Accept payments with UPI:
+
+Generate your UPI QR code for customers to scan and pay instantly. Initiate ‘Collect Payment’ requests, set time limits, and send reminders. 
+
+### Pay to Contact:
+
+Pay anyone in your contact list in 3 easy steps:
+
+1. **Login to the mobile app and click on Pay to Contacts.**
+2. **Select the beneficiary from your phonebook or enter their mobile number.**
+3. **Enter the amount, authenticate with OTP, and transfer instantly!**
+
+### Frequently Asked Questions:
+
+* **What is UPI?**
+    * A platform developed by NPCI that powers multiple bank accounts within a single mobile app. 
+    * Enables secure, seamless, and real-time bank-to-bank payments 24/7 using a mobile number or UPI ID.
+
+* **How does UPI work?**
+    * Requires internet, bank account, smartphone with linked mobile number, and UPI-enabled app.
+    * Transactions can be made by entering UPI ID, scanning QR code, or using account number and IFSC.
+
+* **How can you generate a UPI QR code for your business?**
+    * Download the IDFC FIRST Bank UPI app, register, and link your bank accounts.
+    * Select 'My QR Code' from the menu, download, print, and display it for payments.
+
+* **How to use the ‘Scan and Pay’ feature of the UPI app?**
+    * Open the app, select 'Scan and Pay,' scan the merchant's QR code, authorize with UPI PIN.
+    * Payment is credited instantly, and both parties receive a notification.
+
+* **How can you initiate a ‘Collect Payment’ request?**
+    * Download the app, register, and link your accounts. Click 'ASK,' enter the payer's VPA and amount.
+    * Money is credited upon authorization. Set time limits and send reminders for faster payments.
+
+### Merchant Eligibility:
+
+IDFC FIRST Bank offers UPI merchant solutions for:
+
+* **Individuals & Sole Proprietors:** Grocery stores, vendors, restaurants, etc.
+* **Self-Employed Professionals:** Doctors, fitness experts, architects, etc.
+
+Download the IDFC FIRST Bank UPI app, register, link your bank account, and start using UPI for your business growth.
+
+### Roles & Responsibilities:
+
+**TPAPs sponsored by IDFC FIRST Bank:**
+
+* Ultracash (@idfcbank)
+* Fave (Pine Labs) (@idfcbank)
+
+**NPCI's Roles:**
+
+* Owns and operates the UPI platform.
+* Defines rules, regulations, and liabilities for participants.
+* Approves the participation of banks and other entities.
+* Provides a safe, secure, and efficient UPI system.
+* Conducts audits and calls for data from participants.
+
+### Discover Our Banking Products:
+
+* **Personal Loan:** Avail a loan for your needs with a hassle-free application.
+* **Savings Account:** Earn monthly interest credits on your savings.
+* **Bill Payments & Recharge:** Simplify your bill payments.
+
+### Get in touch with us:
+
+* Give a compliment
+* Contact Customer Support
+* Locate our branch
+
+
+**Follow us on:** Facebook, Twitter, LinkedIn, Youtube
+
+**Download the IDFC FIRST Bank App:** Available on App Store and Google Play
+
+**PCI DSS SECURITY COMPLIANT**
+
+**Popular Searches:** Savings Account, Credit Card, Personal Loan, Current Account, Wow Card, Home Loan, NRI Savings Account, Fixed Deposit, New Car Loan, Pre-owned Car Loan, Consumer Durable Loan, Two Wheeler Loan, Pre-owned Two Wheeler Loan, Mutual funds, Financial Calculators

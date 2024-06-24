@@ -1,0 +1,728 @@
+```html
+  <header>
+    <nav>
+      <a href="//www.idfcfirstbank.com">
+        <img src="/content/dam/idfcfirstbank/images/n1/IDFC-logo-website.svg" alt="IDFC FIRST Bank Logo in SVG Image Format">
+      </a>
+      <ul>
+        <li>
+          <a href="//www.idfcfirstbank.com">Personal</a>
+        </li>
+        <li>
+          <a href="/credit-card">Credit Card</a>
+        </li>
+        <li>
+          <a href="/nri-banking">NRI</a>
+        </li>
+        <li>
+          <a href="/startup-banking">Startup Solutions</a>
+        </li>
+        <li>
+          <a href="/wholesale-banking">Corporate</a>
+        </li>
+        <li>
+          <a href="/business-banking">MSME</a>
+        </li>
+        <li>
+          <a href="/gift-city">Gift City</a>
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <a href="javascript:void(0)">Help</a>
+        </li>
+        <li>
+          <a href="javascript:void(0)">
+            <img src="/content/dam/idfcfirstbank/images/home-page-rewamp/ira-image-new.svg" alt="chat-with-ira">
+            <span>Chat with IRA
+Your personal banking assistant</span>
+          </a>
+        </li>
+        <li>
+          <a href="/customer-care-sr/categories/accounts">
+            <img src="/content/dam/idfcfirstbank/images/home-page-rewamp/help-center-new.svg" alt="help center">
+            <span>Help Center
+Support topics, Contact us, FAQs and more</span>
+          </a>
+        </li>
+        <li>Login</li>
+      </ul>
+    </nav>
+    <div>
+      <h3>Are you ready for an upgrade?</h3>
+      <p>Login to the new experience with best features and services</p>
+      <a href="https://my.idfcfirstbank.com/login">Login to Internet banking</a>
+      <a href="https://partner.idfcfirstbank.com/QuickPayEMI/Login/LoginEMI.aspx">For Loan Accounts<br>Pay Loan EMI</a>
+      <a href="https://firstx.cel.idfcfirstbank.com/">For Wholesale Accounts<br>Login to Wholesale Banking (New Portal)</a>
+      <a href="https://bxp.idfcbank.com/iportalweb/">Login to Existing Portal (BxP)</a>
+    </div>
+  </header>
+  <main>
+    <section>
+      <h2>IDFC FIRST Bank Accounts</h2>
+      <a href="/personal-banking/accounts">View all Accounts</a>
+      <ul>
+        <li>
+          <a href="/personal-banking/accounts/savings-account">Savings<br>Account</a>
+        </li>
+        <li>
+          <a href="/personal-banking/accounts/salary-account">Corporate Salary<br>Account</a>
+        </li>
+        <li>
+          <a href="/personal-banking/accounts/senior-citizens-savings-account">Senior Citizens<br>Savings Account</a>
+        </li>
+        <li>
+          <a href="/personal-banking/accounts/women-first-savings-account">First Power<br>Account</a>
+        </li>
+        <li>
+          <a href="/business-banking/accounts/current-account">Current<br>Account</a>
+        </li>
+        <li>
+          <a href="/nri-banking/nri-savings-account">NRI Savings<br>Account</a>
+        </li>
+        <li>
+          <a href="/business-banking/accounts/tasc-institutional-accounts">TASC Institutional<br>Account</a>
+        </li>
+        <li>
+          <a href="/financial-calculators/savings-account-interest-calculator">Savings Account<br>Interest Calculator</a>
+        </li>
+      </ul>
+    </section>
+    <section>
+      <h2>IDFC FIRST Bank Deposits</h2>
+      <a href="/personal-banking/deposits">View all Deposits</a>
+      <ul>
+        <li>
+          <a href="/personal-banking/deposits/fixed-deposit">Fixed<br>Deposit</a>
+        </li>
+        <li>
+          <a href="/personal-banking/deposits/recurring-deposit">Recurring<br>Deposit</a>
+        </li>
+        <li>
+          <a href="/nri-banking/nri-fixed-deposit">NRI Fixed Deposit</a>
+        </li>
+        <li>
+          <a href="/personal-banking/deposits/safe-deposit-locker">Safe Deposit Locker</a>
+        </li>
+        <li>
+          <a href="/financial-calculators/fd-calculator">FD Calculator</a>
+        </li>
+        <li>
+          <a href="/financial-calculators/recurring-deposit-calculator">RD Calculator</a>
+        </li>
+      </ul>
+    </section>
+    <section>
+      <h2>IDFC FIRST Bank Loans</h2>
+      <a href="/personal-banking/loans">View all Loans</a>
+      <ul>
+        <li>
+          <a href="/personal-banking/loans/personal-loan?icid=fm_populartab_knowmore">Personal Loan</a>
+        </li>
+        <li>
+          <a href="/personal-banking/loans/consumer-durable-loan">Consumer Durable<br>Loan</a>
+        </li>
+        <li>
+          <a href="/personal-banking/loans/home-loan">Home Loan</a>
+        </li>
+        <li>
+          <a href="/personal-banking/loans/education-loan">Education Loan</a>
+        </li>
+        <li>
+          <a href="/personal-banking/loans/car-loan">New Car Loan</a>
+        </li>
+        <li>
+          <a href="/personal-banking/loans/pre-owned-car-loan">Pre-owned Car Loan</a>
+        </li>
+        <li>
+          <a href="/personal-banking/loans/two-wheeler-loan">Two Wheeler Loan</a>
+        </li>
+        <li>
+          <a href="/personal-banking/loans/pre-owned-two-wheeler-loans">Pre-owned Two<br>Wheeler Loan</a>
+        </li>
+        <li>
+          <a href="/business-banking/loans/commercial-vehicle-loan">Commercial Vehicle<br>Loan</a>
+        </li>
+        <li>
+          <a href="/personal-banking/loans/gold-loan">Gold Loan</a>
+        </li>
+        <li>
+          <a href="/personal-banking/loans/loan-against-property">Loan Against Property</a>
+        </li>
+        <li>
+          <a href="/personal-banking/loans/easy-buy-emi-card">Easy Buy EMI card</a>
+        </li>
+        <li>
+          <a href="/financial-calculators/personal-loan-calculator">Personal Loan<br>EMI Calculator</a>
+        </li>
+        <li>
+          <a href="/financial-calculators/education-loan-emi-calculator">Education Loan<br>EMI Calculator</a>
+        </li>
+        <li>
+          <a href="/financial-calculators/home-loan-emi-calculator">Home Loan<br>EMI Calculator</a>
+        </li>
+      </ul>
+    </section>
+    <section>
+      <h2>IDFC FIRST Bank Wealth &amp; Insure</h2>
+      <a href="/wealth-management">View all Wealth &amp; Insure</a>
+      <ul>
+        <li>
+          <a href="/personal-banking/wealth/First-Select">FIRST Select</a>
+        </li>
+        <li>
+          <a href="/personal-banking/wealth/First-Wealth">FIRST Wealth</a>
+        </li>
+        <li>
+          <a href="/personal-banking/wealth/First-Private">FIRST Private</a>
+        </li>
+        <li>
+          <a href="/personal-banking/investment/mutual-fund">Mutual Funds</a>
+        </li>
+        <li>
+          <a href="/personal-banking/investment/sovereign-gold-bond">Sovereign Gold Bond</a>
+        </li>
+        <li>
+          <a href="/personal-banking/investments-and-insurance/open-demat-and-trading-account">Demat &amp; Trading<br>Account</a>
+        </li>
+        <li>
+          <a href="/personal-banking/insurance/term-insurance">Term Insurance</a>
+        </li>
+        <li>
+          <a href="/personal-banking/insurance/term-insurance">Life Insurance</a>
+        </li>
+        <li>
+          <a href="/personal-banking/insurance/health-insurance">Health Insurance</a>
+        </li>
+        <li>
+          <a href="/personal-banking/insurance/motor-insurance">General Insurance</a>
+        </li>
+      </ul>
+    </section>
+    <section>
+      <h2>IDFC FIRST Bank Payments</h2>
+      <a href="/personal-banking/payments">View all Payments</a>
+      <ul>
+        <li>
+          <a href="/personal-banking/fastag">FASTag</a>
+        </li>
+        <li>
+          <a href="/personal-banking/payments/cc-bill-payment">Credit Card<br>Bill Payments</a>
+        </li>
+        <li>
+          <a href="/personal-banking/payments/upi-payments">UPI</a>
+        </li>
+        <li>
+          <a href="/personal-banking/payments/funds-transfer-new">Funds Transfer</a>
+        </li>
+        <li>
+          <a href="/personal-banking/forex">Retail Forex</a>
+        </li>
+        <li>
+          <a href="https://partner.idfcfirstbank.com/QuickPayEMI/Login/LoginEMI.aspx">Pay Loan EMI</a>
+        </li>
+      </ul>
+    </section>
+    <section id="mobpersonal">
+      <h2>IDFC FIRST Bank Cards</h2>
+      <a href="/credit-card">View all Cards</a>
+      <ul>
+        <li>
+          <a href="/credit-card/millennia">FIRST Millennia<br>Credit Card</a>
+        </li>
+        <li>
+          <a href="/credit-card/classic">FIRST Classic<br>Credit Card</a>
+        </li>
+        <li>
+          <a href="/credit-card/select">FIRST Select<br>Credit Card</a>
+        </li>
+        <li>
+          <a href="/credit-card/wealth">FIRST Wealth<br>Credit Card</a>
+        </li>
+        <li>
+          <a href="/credit-card/wow">FIRST WOW!<br>Credit Card</a>
+        </li>
+        <li>
+          <a href="/credit-card/vistara-credit-card">Club Vistara<br>IDFC FIRST<br>Credit Card</a>
+        </li>
+        <li>
+          <a href="/personal-banking/payments/cards/multi-currency-forex-card">Forex Card</a>
+        </li>
+        <li>
+          <a href="/offers/debit-offers">Deals</a>
+        </li>
+        <li>
+          <a href="/personal-banking/payments/cards/debit-card">Debit Cards</a>
+        </li>
+        <li>
+          <a href="/personal-banking/payments/cards/co-branded-card">Co-branded Cards</a>
+        </li>
+        <li>
+          <a href="/financial-calculators/credit-card-emi-calculator">Credit Card<br>EMI Calculator</a>
+        </li>
+        <li>
+          <a href="/credit-card/corporate-credit-card">FIRST Corporate<br>Credit Card</a>
+        </li>
+        <li>
+          <a href="/credit-card/purchase-credit-card">FIRST Purchase<br>Credit Card</a>
+        </li>
+      </ul>
+      <a href="/content/dam/idfcfirstbank/pdf/Customer-25-Special-Features-Booklet-V8.pdf">
+        <img src="/content/dam/idfcfirstbank/images/homepage-redesign/special-001.svg" alt>
+        <span>What's special about us</span>
+      </a>
+    </section>
+    <section id="mobcredit">
+      <a href="/credit-card">View all Cards</a>
+      <ul>
+        <li>
+          <a href="/credit-card/millennia">FIRST Millennia</a>
+        </li>
+        <li>
+          <a href="/credit-card/swyp-emi-credit-card">FIRST SWYP</a>
+        </li>
+        <li>
+          <a href="/credit-card/classic">FIRST Classic</a>
+        </li>
+        <li>
+          <a href="/credit-card/hpcl-power-fuel-credit-card">FIRST Power</a>
+        </li>
+        <li>
+          <a href="/credit-card/wealth">FIRST Wealth</a>
+        </li>
+        <li>
+          <a href="/credit-card/vistara-credit-card">Club Vistara</a>
+        </li>
+        <li>
+          <a href="/credit-card/wow/traveller">FIRST WOW!</a>
+        </li>
+      </ul>
+      <ul>
+        <li>
+          <a href="https://www.idfcfirstbank.com/credit-card/add-on/apply?utm_source=bankwebnli_addon&amp;utm_medium=NTB_Addon_1&amp;utm_campaign=bankwebnli_addon">Add-On Card</a>
+        </li>
+        <li>
+          <a href="https://www.idfcfirstbank.com/credit-card/referral-journey?utm_source=bankwebnli_ref&amp;utm_medium=NTB_Referral_4&amp;utm_campaign=bankwebnlintb_ref">Refer &amp; Earn</a>
+        </li>
+        <li>
+          <a href="/credit-card/FIRSTPrivateCreditCard">FIRST Private</a>
+        </li>
+        <li>
+          <a href="/credit-card/rupay-credit-card">Activate UPI</a>
+        </li>
+        <li>
+          <a href="/credit-card/lic-classic-credit-card">LIC Cards</a>
+        </li>
+        <li>
+          <a href="/credit-card/select">FIRST Select</a>
+        </li>
+        <li>
+          <a href="/credit-card/image-card/apply">Stories : Personalised<br>Credit Card</a>
+        </li>
+        <li>
+          <a href="/credit-card/business-credit-card-sme">FIRST Business</a>
+        </li>
+        <li>
+          <a href="/credit-card/corporate-credit-card">FIRST Corporate</a>
+        </li>
+        <li>
+          <a href="/credit-card/purchase-credit-card">FIRST Purchase</a>
+        </li>
+      </ul>
+    </section>
+    <section>
+      <a href="/business-banking/accounts/bravo-facility">BRAVO (Auto Sweep)</a>
+    </section>
+    <section id="mobsme">
+      <h2>IDFC FIRST Bank MSME Accounts</h2>
+      <a href="/Business-Account-Compare-Card">View all Accounts</a>
+      <ul>
+        <li>
+          <a href="/business-banking/accounts/current-account">Current Account</a>
+        </li>
+        <li>
+          <a href="/business-banking/accounts/merchant-multiplier-account">Merchant Multiplier<br>Account</a>
+        </li>
+        <li>
+          <a href="/business-banking/accounts/agri-multiplier-account">Agri Multiplier<br>Account</a>
+        </li>
+        <li>
+          <a href="/business-banking/accounts/tasc-institutional-accounts">TASC Institutional<br>Account</a>
+        </li>
+        <li>
+          <a href="/business-banking/accounts/dyanamic-current-account">Dynamic Current<br>Account</a>
+        </li>
+        <li>
+          <a href="/business-banking/accounts/freedom-current-account">Freedom World<br>Current Account</a>
+        </li>
+        <li>
+          <a href="/business-banking/accounts/world-business-account">World business<br>Account</a>
+        </li>
+        <li>
+          <a href="/business-banking/accounts/startup-current-account">First Startup<br>Current Account</a>
+        </li>
+      </ul>
+      <h3>IDFC FIRST Bank Trade Service</h3>
+      <ul>
+        <li>
+          <a href="/business-banking/import">Import</a>
+        </li>
+        <li>
+          <a href="/business-banking/export">Export</a>
+        </li>
+        <li>
+          <a href="/business-banking/remittances">Remittances</a>
+        </li>
+        <li>
+          <a href="/business-banking/bank-guarantee">Bank Guarantees</a>
+        </li>
+        <li>
+          <a href="/business-banking/online-trade-portal">Online Trade Portal</a>
+        </li>
+      </ul>
+      <h2>IDFC FIRST Bank Business Loans</h2>
+      <a href="/business-banking/loans">View all Loans</a>
+      <ul>
+        <li>
+          <a href="/business-banking/loans/business-loan">Unsecured - Business Loan</a>
+        </li>
+        <li>
+          <a href="/business-banking/loans/professional-loans">Unsecured - Professional Loan</a>
+        </li>
+        <li>
+          <a href="/business-banking/loans/loan-against-property">Secured - Loan Against Property</a>
+        </li>
+        <li>
+          <a href="/business-banking/loans/working-capital-loan">Working Capital Loan</a>
+        </li>
+        <li>
+          <a href="/business-banking/loans/construction-equipment-loan">Construction Equipment Loan</a>
+        </li>
+      </ul>
+      <h3>IDFC FIRST Bank Business Solutions</h3>
+      <ul>
+        <li>
+          <a href="/business-banking/payment-solutions">Payments</a>
+        </li>
+        <li>
+          <a href="/business-banking/collection-solutions">Collections</a>
+        </li>
+        <li>
+          <a href="/business-banking/tax-payment">Tax Payments</a>
+        </li>
+        <li>
+          <a href="/business-banking/doorstep-banking">Doorstep Banking</a>
+        </li>
+        <li>
+          <a href="/business-banking/point-of-sale">Point of Sale (POS)</a>
+        </li>
+      </ul>
+      <a href="/business-banking/debit-card">Debit Card</a>
+      <h3>IDFC FIRST Bank Business Offers</h3>
+      <ul>
+        <li>
+          <a href="/business-banking/beyond-banking-offers">Beyond Banking Offers</a>
+        </li>
+        <li>
+          <a href="/business-banking/debit-card-visa-offers">Debit Card Offers by VISA</a>
+        </li>
+        <li>
+          <a href="/offers/local-offers">Local Offers</a>
+        </li>
+      </ul>
+    </section>
+    <section id="mobwholesale">
+      <ul>
+        <li>
+          <a href="/wholesale-banking/accounts/super-account">Super Account</a>
+        </li>
+        <li>
+          <a href="/wholesale-banking/accounts/rocket-current-account">Rocket Current Account</a>
+        </li>
+      </ul>
+      <h2>IDFC FIRST Bank Cash Management Services</h2>
+      <a href="/wholesale-banking/cms">View all Cash Management Services</a>
+      <ul>
+        <li>
+          <a href="/wholesale-banking/cms/payments">Payments</a>
+        </li>
+        <li>
+          <a href="/wholesale-banking/cms/collections">Collections</a>
+        </li>
+        <li>
+          <a href="/wholesale-banking/cms/liquidity">Liquidity Management Solutions</a>
+        </li>
+      </ul>
+      <a href="/wholesale-banking/corporate-linked-finance">Supply Chain Finance</a>
+      <h2>IDFC FIRST Bank Lending</h2>
+      <a href="/wholesale-banking/lending">View all</a>
+      <ul>
+        <li>
+          <a href="/wholesale-banking/lending/working-capital">Working Capital Finance</a>
+        </li>
+        <li>
+          <a href="/wholesale-banking/lending/term-loans">Term Loans</a>
+        </li>
+      </ul>
+      <h2>IDFC FIRST Bank Treasury</h2>
+      <a href="/wholesale-banking/treasury-capital-market">See more details</a>
+      <ul>
+        <li>
+          <a href="/wholesale-banking/treasury-capital-market/debt-capital-market">Debt Capital<br>Market</a>
+        </li>
+        <li>
+          <a href="/wholesale-banking/treasury-capital-market/corporate-fx-market">Corporate FX<br>Market</a>
+        </li>
+      </ul>
+      <a href="/wholesale-banking/lending/nbfc-financing">NBFC Financing</a>
+    </section>
+    <section id="mobnri">
+      <h3>IDFC FIRST Bank NRI Savings Account</h3>
+      <ul>
+        <li>
+          <a href="/nri-banking/nri-savings-account/nre-savings-account">NRE Savings Account</a>
+        </li>
+        <li>
+          <a href="/nri-banking/nri-savings-account/nro-savings-account">NRO Savings Account</a>
+        </li>
+        <li>
+          <a href="/nri-banking/nri-savings-account/seafarer-account">Seafarers Account</a>
+        </li>
+      </ul>
+      <h3>IDFC FIRST Bank NRI Fixed Deposit</h3>
+      <ul>
+        <li>
+          <a href="/nri-banking/nri-fixed-deposit/nre-fixed-deposit">NRE Fixed Deposit</a>
+        </li>
+        <li>
+          <a href="/nri-banking/nri-fixed-deposit/nro-fixed-deposit">NRO Fixed Deposit</a>
+        </li>
+        <li>
+          <a href="/nri-banking/nri-fixed-deposit/fcnr-deposit">FCNR Deposit</a>
+        </li>
+      </ul>
+      <h3>IDFC FIRST Bank NRI Forex Solutions</h3>
+      <ul>
+        <li>
+          <a href="/nri-banking/remittance/crediting-from-overseas">Send money to India</a>
+        </li>
+        <li>
+          <a href="/nri-banking/remittance/transfers-out-of-india">Send money abroad</a>
+        </li>
+        <li>
+          <a href="/nri-banking/remittance/forwards-against-fd">Max Returns FD (INR)</a>
+        </li>
+      </ul>
+      <h3>IDFC FIRST Bank Transfer to NRE</h3>
+      <ul>
+        <li>
+          <a href="/nri-banking/nro-nre-transfers/digital-nro-nre-transfer">Digital NRO to NRE Transfer</a>
+        </li>
+        <li>
+          <a href="/nri-banking/nro-nre-transfers/transfers-at-branch">Transfers at the Branch</a>
+        </li>
+      </ul>
+      <a href="/nri-banking/markets-and-beyond">Markets &amp; Beyond</a>
+    </section>
+    <section id="mobgift">
+      <a href="/content/dam/idfcfirstbank/pdf/Customer-25-Special-Features-Booklet-V8.pdf">
+        <img src="/content/dam/idfcfirstbank/images/homepage-redesign/special-001.svg" alt>
+        <span>What's special about us</span>
+      </a>
+    </section>
+    <section>
+      <h3>IDFC FIRST Bulletin</h3>
+      <article>
+        <img src="/content/dam/idfcfirstbank/images/homepage-redesign/notification-slide2.jpg" alt="Get #MoreFromYourBank - Amitabh Bachchan and Navya Naveli Nanda">
+        <div>
+          <h4>Lifetime FREE Credit Card with 10X rewards</h4>
+          <a href="https://www.idfcfirstbank.com/credit-card/ntb-diy/apply">Apply Now</a>
+          <a href="/credit-card">Know More</a>
+        </div>
+      </article>
+      <article>
+        <img src="/content/dam/idfcfirstbank/images/homepage-redesign/notification-slide3.jpg" alt="Steps for Central KYC Registry">
+        <div>
+          <h4>CKYC Registry</h4>
+          <a href="https://www.ckycindia.in/">Know More</a>
+          <a href="/CentralKYCRecordsRegistryCustomerAwareness">Watch video</a>
+        </div>
+      </article>
+      <a href="tel:1800 10 888">Customer care hotline
+1800 10 888</a>
+    </section>
+  </main>
+  <footer>
+    <nav>
+      <a href="//www.idfcfirstbank.com">
+        <img src="/content/dam/idfcfirstbank/images/n1/IDFC-logo-website.svg" alt="IDFC FIRST Bank Logo in SVG Image Format">
+      </a>
+      <ul>
+        <li>
+          <a href="javascript:void(0)">Help</a>
+        </li>
+        <li>
+          <a href="javascript:void(0)">
+            <img src="/content/dam/idfcfirstbank/images/home-page-rewamp/ira-image-new.svg" alt="chat-with-ira">
+            <span>Chat with IRA
+Your personal banking assistant</span>
+          </a>
+        </li>
+        <li>
+          <a href="/customer-care-sr/categories/accounts">
+            <img src="/content/dam/idfcfirstbank/images/home-page-rewamp/help-center-new.svg" alt="help center">
+            <span>Help Center
+Support topics, Contact us, FAQs and more</span>
+          </a>
+        </li>
+      </ul>
+      <a href="tel:1800 10 888">Customer care hotline<br>1800 10 888</a>
+    </nav>
+    <nav>
+      <a href="//www.idfcfirstbank.com">
+        <img src="/content/dam/idfcfirstbank/images/n1/IDFC-logo-website.svg" alt="IDFC FIRST Bank Logo in SVG Image Format">
+      </a>
+      <ul>
+        <li>
+          <a href="//www.idfcfirstbank.com">PERSONAL BANKING</a>
+        </li>
+        <li>
+          <a href="/credit-card">Credit Card</a>
+        </li>
+        <li>
+          <a href="/nri-banking">NRI</a>
+        </li>
+        <li>
+          <a href="/startup-banking">Startup Solutions</a>
+        </li>
+        <li>
+          <a href="/wholesale-banking">Corporate</a>
+        </li>
+        <li>
+          <a href="/business-banking">MSME</a>
+        </li>
+        <li>
+          <a href="/gift-city">Gift City</a>
+        </li>
+      </ul>
+    </nav>
+    <section>
+      <h3>Explore Personal Banking</h3>
+      <ul>
+        <li>Accounts</li>
+        <li>
+          <a href="/personal-banking/accounts">IDFC FIRST Bank Accounts</a>
+        </li>
+        <li>
+          <a href="/personal-banking/accounts/savings-account">Savings<br>Account</a>
+        </li>
+        <li>
+          <a href="/personal-banking/accounts/salary-account">Corporate Salary<br>Account</a>
+        </li>
+        <li>
+          <a href="/personal-banking/accounts/senior-citizens-savings-account">Senior Citizens<br>Savings Account</a>
+        </li>
+        <li>
+          <a href="/personal-banking/accounts/women-first-savings-account">First Power<br>Account</a>
+        </li>
+        <li>
+          <a href="/business-banking/accounts/current-account">Current<br>Account</a>
+        </li>
+        <li>
+          <a href="/nri-banking/nri-savings-account">NRI Savings<br>Account</a>
+        </li>
+        <li>
+          <a href="/business-banking/accounts/tasc-institutional-accounts">TASC Institutional<br>Account</a>
+        </li>
+        <li>
+          <a href="/financial-calculators/savings-account-interest-calculator">Savings Account<br>Interest Calculator</a>
+        </li>
+      </ul>
+      <ul>
+        <li>Deposits</li>
+        <li>
+          <a href="/personal-banking/deposits">IDFC FIRST Bank Deposits</a>
+        </li>
+        <li>
+          <a href="/personal-banking/deposits/fixed-deposit">Fixed<br>Deposit</a>
+        </li>
+        <li>
+          <a href="/personal-banking/deposits/recurring-deposit">Recurring<br>Deposit</a>
+        </li>
+        <li>
+          <a href="/nri-banking/nri-fixed-deposit">NRI Fixed Deposit</a>
+        </li>
+        <li>
+          <a href="/personal-banking/deposits/safe-deposit-locker">Safe Deposit Locker</a>
+        </li>
+        <li>
+          <a href="/financial-calculators/fd-calculator">FD Calculator</a>
+        </li>
+        <li>
+          <a href="/financial-calculators/recurring-deposit-calculator">RD Calculator</a>
+        </li>
+      </ul>
+      <ul>
+        <li>Loans</li>
+        <li>
+          <a href="/personal-banking/loans">IDFC FIRST Bank Loans</a>
+        </li>
+        <li>
+          <a href="/personal-banking/loans/personal-loan?icid=fm_populartab_knowmore">Personal Loan</a>
+        </li>
+        <li>
+          <a href="/personal-banking/loans/consumer-durable-loan">Consumer Durable<br>Loan</a>
+        </li>
+        <li>
+          <a href="/personal-banking/loans/home-loan">Home Loan</a>
+        </li>
+        <li>
+          <a href="/personal-banking/loans/education-loan">Education Loan</a>
+        </li>
+        <li>
+          <a href="/personal-banking/loans/car-loan">New Car Loan</a>
+        </li>
+        <li>
+          <a href="/personal-banking/loans/pre-owned-car-loan">Pre-owned Car Loan</a>
+        </li>
+        <li>
+          <a href="/personal-banking/loans/two-wheeler-loan">Two Wheeler Loan</a>
+        </li>
+        <li>
+          <a href="/personal-banking/loans/pre-owned-two-wheeler-loans">Pre-owned Two<br>Wheeler Loan</a>
+        </li>
+        <li>
+          <a href="/business-banking/loans/commercial-vehicle-loan">Commercial Vehicle<br>Loan</a>
+        </li>
+        <li>
+          <a href="/personal-banking/loans/gold-loan">Gold Loan</a>
+        </li>
+        <li>
+          <a href="/personal-banking/loans/loan-against-property">Loan Against Property</a>
+        </li>
+        <li>
+          <a href="/personal-banking/loans/easy-buy-emi-card">Easy Buy EMI card</a>
+        </li>
+        <li>
+          <a href="/financial-calculators/personal-loan-calculator">Personal Loan<br>EMI Calculator</a>
+        </li>
+        <li>
+          <a href="/financial-calculators/education-loan-emi-calculator">Education Loan<br>EMI Calculator</a>
+        </li>
+        <li>
+          <a href="/financial-calculators/home-loan-emi-calculator">Home Loan<br>EMI Calculator</a>
+        </li>
+      </ul>
+      <ul>
+        <li>Wealth &amp; Insure</li>
+        <li>
+          <a href="/wealth-management">IDFC FIRST Bank Wealth &amp; Insure</a>
+        </li>
+        <li>
+          <a href="/personal-banking/wealth/First-Select">FIRST Select</a>
+        </li>
+        <li>
+          <a href="/personal-banking/wealth/First-Wealth">FIRST Wealth</a>
+        </li>
+        <li>
+          <a href

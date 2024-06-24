@@ -1,0 +1,18 @@
+```json
+{
+ "page_type": "savings account",
+ "banks": [
+  "IDFC FIRST Bank"
+ ],
+ "accounts": [
+  {
+   "account_name": "Vishesh Savings Account",
+   "account_minimum": "₹5,000"
+  },
+  {
+   "account_name": "Pratham Savings Account",
+   "account_type": "BSBDA"
+  }
+ ]
+}
+```

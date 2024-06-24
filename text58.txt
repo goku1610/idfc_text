@@ -1,0 +1,54 @@
+## Introducing Positive Pay
+
+**Secure Your Cheque From Any Potential Fraud**
+
+**Benefits:**
+
+* Safe Guard all your Cheque Payments
+* Prevent fraud
+* Authorise clearing without a verification call
+
+### Positive Pay System (PPS)
+
+At IDFC FIRST Bank, we always keep your safety, ease and best in class services first. Introducing positive pay feature that safeguards all your cheque payments. It protects your cheque from tampering and keeps you away from any possible payment fraud. 
+
+**How to use Positive Pay**
+
+1. **Log in to App/Netbanking** --> Go to cheque book management section --> Click on new cheque details and fill in below details
+2. **Enter Cheque Details:**
+    * Cheque Serial Number
+    * Enter Payee Details
+    * Enable Positive Pay Sign
+    * Enter Cheque Date
+    * Enter Amount
+3. **Click on Add cheque**
+
+**Enabling Positive pay authorises the cheque to be cleared without a verification call from IDFC FIRST Bank. We highly encourage you to use the feature to safeguard your cheques.**
+
+### FREQUENTLY ASKED QUESTIONS
+
+**How is it securing your payment?**
+
+Once you provide the cheque details through mobile app or net-banking portal under cheque book management, the details will be verified against the presented cheque by beneficiary.
+
+* If the information matches the same will be cleared
+* If there is a mismatch, the bank will contact the customer, if the customer is not reachable then the same will be returned un-cleared 
+
+**Is it mandatory to use positive pay?**
+
+We highly encourage you to use the feature to safeguard your cheques. In case the details of issued cheques are not provided, existing clearing process will continue without Positive Pay check.
+
+### Discover Our Banking Products
+
+* **Door Step Banking**
+    * One Location Cheque pick-up free
+* **Trade Forex**
+    * Expand overseas business with IDFC FIRST Bank
+* **UPI QR & POS**
+    * Instant credit to your Bank account for your collections 
+
+### Get in touch with us
+
+* Give a compliment
+* Customer Support
+* Locate our branch 

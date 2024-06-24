@@ -1,0 +1,42 @@
+## Credit Card EMI Calculator
+
+This page, from IDFC First Bank, offers a tool to calculate credit card EMIs. Here's a breakdown:
+
+**What is it?**
+
+Credit cards let you purchase now and pay later.  This calculator helps you convert large credit card purchases into manageable monthly installments (EMIs).
+
+**How does it work?**
+
+1. **Enter the principal amount:** The amount you want to pay off using EMIs.
+2. **Enter the tenure:**  Choose the loan duration in months (3, 6, 9, 12, 18, 24, 36).
+3. **Hit "Calculate":** The calculator will instantly show you:
+    * Monthly EMI amount
+    * Breakdown of charges (processing fee, interest, GST)
+    * Total amount payable
+
+**Benefits of IDFC First Bank Credit Cards**
+
+* Lifetime free cards 
+* Attractive rewards program 
+* Travel benefits 
+* Exclusive offers 
+* Competitive interest rates
+
+**FAQs (Frequently Asked Questions)**
+
+The page answers common questions about:
+
+* EMI calculation formula
+* Advantages of using the calculator
+* Choosing an IDFC FIRST Bank Credit Card
+* Tax implications of credit card EMIs 
+
+**Additional Information**
+
+*  The disclaimer explains credit card terms and the purpose of the calculator.
+*  Links to learn more about IDFC First Bank credit cards and other banking products.
+
+**Key Takeaway** 
+
+ This page simplifies understanding the cost of converting credit card purchases into EMIs, aiding informed financial decisions. 

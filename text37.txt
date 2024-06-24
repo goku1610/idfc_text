@@ -1,0 +1,91 @@
+```html
+<h1>Protect your car against accidental dents</h1>
+<h2>Be ready for unexpected car reparations with a right motor insurance policy</h2>
+<a href="">Apply Now</a>
+<h3>Curated products with expert selection guidance</h3>
+<h3>Customized products with range of selectable add-ons</h3>
+<h3>Leading General Insurance Partners – ICICI Lombard, SBI General & Future Generali</h3>
+<h3>Easy service at our wide network of cashless garages</h3>
+<h2>Motor Insurance</h2>
+<p>With the rapid increase in the number of cars plying on Indian roads, road safety has become of utmost importance for the country’s citizens. Motor insurance comes to the rescue by protecting against physical damage or loss sustained by the insured vehicle from natural and man-made calamities. The motor vehicle insurance policy also provides coverage for third-party liabilities arising out of any accidental damage, injury or death of a third party. This ensures peace of mind and security for anyone driving down the road. <a href="">Read More</a></p>
+<h3>Motor Insurance Plans</h3>
+<a href="">
+<h4>Private Car Package Policy</h4>
+</a>
+<a href="">
+<h4>Two Wheeler Vehicle Package</h4>
+</a>
+<a href="">
+<h4>Private Car Insurance Policy - Package</h4>
+</a>
+<a href="">
+<h4>Two Wheeler Insurance Policy – Package</h4>
+</a>
+<a href="">
+<h4>Future Motor Secure</h4>
+</a>
+<a href="">
+<h4>Future Motor Secure – Two Wheeler</h4>
+</a>
+<h2>DID YOU KNOW</h2>
+<h3>Factors affecting your final motor insurance price include:</h3>
+<ul>
+<li>IDV – IDV is the maximum amount you can claim under your policy. The higher your car’s market value, the higher your IDV and premium will be.</li>
+<li>Make & model - Higher-end models are insured at a higher price simply because the cost of repairs/replacement for such vehicle is high.</li>
+<li>Fuel type - Repairing petrol-fuelled cars are cheaper than those that run on diesel and CNG. As a result, they are also less expensive to insure.</li>
+<li>Year of manufacture – Certain new cars may be costly to cover since their spare parts may not be available yet.</li>
+<li>Location - Since urban areas have denser traffic, there’s a greater probability of accidental damages. Thus your premium may vary depending on your location.</li>
+<li>Claim history – If you have made no auto insurance claims in the past year, you stand to gain a No Claim Bonus on your premium.</li>
+</ul>
+<h3>FREQUENTLY ASKED QUESTIONS</h3>
+<h4>Types of Motor Insurance Plans</h4>
+<ul>
+<li>
+<p><strong>Car Insurance:</strong> Car Insurance gives coverage against accidental loss or damages to own car or a third party. While choosing a car insurance policy, a person should always compare the add-on cover offered, Garage network for cashless service, servicing claims etc. The amount of premium would depend on the make & value of the car, state from where it is registered and the manufacturing year.</p>
+</li>
+<li>
+<p><strong>Two-Wheeler Insurance:</strong> Two-Wheeler Insurance protects bikes and scooters. It covers two-wheeler vehicles against any own damages as well as any accidental loss caused to third party property or person. Similar to car insurance, the premium of a two-wheeler policy depends on the age of the bike, its make & model, registration year, etc.</p>
+</li>
+<li>
+<p><strong>Commercial Vehicle Insurance:</strong> Commercial vehicle insurance helps all commercial vehicle drivers to reduce losses they might incur due to damage to their vehicle. Here commercial vehicles include those that are not used for personal purposes, like goods carrying vehicles, trucks, etc. Get a commercial vehicle insurance online today!</p>
+</li>
+</ul>
+<h4>Types of Motor Insurance Coverages</h4>
+<p><strong>Third-Party Insurance Cover:</strong> It covers a third person who has been injured in an accident involving you and your vehicle, including a car, scooters, bikes, trucks, etc. The policy doesn’t provide any direct benefit to the insured. As per the Insurance Regulatory and Development of India (IRDA), no insurer can decline to underwrite third party insurance.</p>
+<p><strong>Own Damage Cover:</strong> Your vehicle is covered for any accidental damages that occur. These could be due to natural disasters like earthquake, flood, cyclone, and landslide, or due to man-made disasters like theft, burglary, riot or strike. To buy this insurance, you should have an active third party insurance policy for the vehicle.</p>
+<p><strong>Comprehensive Insurance Cover:</strong> A comprehensive insurance policy offers complete protection to you. It covers not only the costs incurred on damages to a third party but also the damages to your vehicle. This policy type also covers theft and damages caused by fire, burglary and natural disasters. It is a combination of the above two covers.</p>
+<h4>Add-on covers offered with Motor Insurance</h4>
+<ul>
+<li><strong>Roadside assistance cover:</strong> Helps you in case of a breakdown/accident with – towing to network garage, battery jumpstart, minor repairs, on-call support and taxi benefits.</li>
+<li><strong>Zero depreciation cover:</strong> As your car ages, the value of its parts decreases or depreciates. At the time of a claim, Zero Depreciation Cover compensates you for the claim amount that gets deducted because of depreciation.</li>
+<li><strong>Engine protect cover*:</strong> Pays for repair or replacement of a damaged engine. A handy add-on for those who stay in a region prone to flooding during the rains, or if you own a high-end car.</li>
+<li><strong>Consumables protect cover*:</strong> Pays for repair or replacement of nut and bolt, screw, washer, grease, lubricant, clips, A/C gas, bearings, distilled water, engine oil, oil filter, fuel filter, brake oil and related parts.</li>
+<li><strong>Garage cash cover*:</strong> Gives a daily allowance for alternate travel while your car gets repaired at the garage. You can use this money to pay for a cab or auto fare.</li>
+<li><strong>Loss of personal belongings cover*:</strong> Covers personal belongings, such as your laptop, phone and clothes in your car. It has you covered, in case these belongings go missing from your car or get damaged in an accident.</li>
+</ul>
+<p>*applicable to only 4 wheelers</p>
+<h4>What is covered in Motor Insurance policy?</h4>
+<p>The damages to the vehicle due to below perils but not limited to, are covered in motor insurance plans -</p>
+<ul>
+<li>Riot &amp; strike</li>
+<li>Fire &amp; burglary</li>
+<li>Terrorism act</li>
+<li>Earthquake</li>
+<li>Landslide</li>
+<li>Flood, storm, cyclone</li>
+</ul>
+<h4>What is not covered in Motor Insurance policy?</h4>
+<ul>
+<li>Car wear &amp; tear and ageing</li>
+<li>Damages while driving under the influence of drugs or liquor</li>
+<li>Any consequential loss</li>
+<li>Mechanical or electrical breakdown</li>
+<li>Damages while driving without a valid license</li>
+<li>Loss/damage due to war, mutiny or nuclear risk</li>
+</ul>
+<a href="">More FAQs</a>
+<h3>Get in touch with us</h3>
+<a href="">Give a compliment</a>
+<a href="">Customer Support</a>
+<a href="">Locate our branch</a>
+```
